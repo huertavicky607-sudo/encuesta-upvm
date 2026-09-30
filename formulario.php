@@ -80,7 +80,7 @@ if(isset($conn)) $conn->close();
     <div class="container">
         <div class="profile-container">
             <!-- Reemplaza 'tu-foto.jpg' con la ruta real de tu imagen -->
-            <img src="image1.jpg" alt="Mi Foto" class="profile-img">
+            <img src="image1.jpeg" alt="Mi Foto" class="profile-img">
         </div>
         <h1>Encuesta sobre la UPVM</h1>
         <?php echo $mensaje; ?>
